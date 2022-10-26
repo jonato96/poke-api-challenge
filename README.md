@@ -36,4 +36,4 @@ FrontEnd
 Para la vista se utilizó react, un tipo de carrusel con cartas, bootstrap, algunos tutoriales y mucho cariño.
 <img src="https://github.com/jonato96/poke-api-challenge/blob/main/assets/APIReact.png"/>
 
-En fin, fue divertido, al final me di cuenta que era mejor crear algun servicio para consumir el api principal y agregarlos a mi base, pero ya era tarde(ya lo habia hecho lso insert manual xD). Saludos.
+En fin, fue divertido, al final me di cuenta que era mejor crear algun servicio para consumir el api principal y agregarlos a mi base, pero ya era tarde(ya lo habia hecho los inserts de forma manual xD). Saludos.
