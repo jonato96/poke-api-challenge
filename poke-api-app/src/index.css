@@ -1,0 +1,9 @@
+body {
+    background: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+    
+    justify-content: center;
+    align-items: center;      
+    height: 100vh;
+  }

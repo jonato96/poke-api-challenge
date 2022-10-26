@@ -1,0 +1,19 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  application:
+    name: pokeapi
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: adminPRO96
+    url: "jdbc:postgresql://localhost:5432/pokeapi"
+  jpa:
+    show-sql: true
+    hibernate:
+      dll-auto: create-drop
+    properties:
+     hibernate:
+       dialect: org.hibernate.dialect.PostgreSQLDialect
+
