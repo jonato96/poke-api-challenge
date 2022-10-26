@@ -28,7 +28,7 @@ Tecnologias>
 	Lenguaje Java Framework SpringBoot
 	Base de datos Postgresql
   
-Al finalizar el back nos queda la siguiente api documentada con swagegr
+Al finalizar el back nos queda la siguiente api documentada con swagger
 <img src="https://github.com/jonato96/poke-api-challenge/blob/main/assets/API-Swagger.png"/>
 
 FrontEnd
